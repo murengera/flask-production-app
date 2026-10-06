@@ -1,4 +1,4 @@
-name: 01 - Github action environments Demo
+name: 01 - CI Flask Application
 
 on:
   push:
